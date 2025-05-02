@@ -18,7 +18,7 @@ type Testimonial = {
   
 };
 export const AnimatedTestimonials = ({
-  testimonials = [], // Provide default empty array
+  testimonials = [], 
   autoplay = false,
 }: {
   testimonials: Testimonial[];
