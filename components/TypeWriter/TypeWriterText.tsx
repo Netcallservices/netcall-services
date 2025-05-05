@@ -6,6 +6,7 @@ const words = [
   "Technology Begins Here",
   "Connecting the World",
   "Innovative Solutions",
+  "Technology Begins Here",
 ];
 
 export default function TypewriterText() {
